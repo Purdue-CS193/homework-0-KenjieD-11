@@ -1,10 +1,10 @@
 ## Kenjie's First CS193 Homework
 
 ### My Favorite Things about CS193:
-- Well air-conditioned classroom in the church
-- Laid back yet informative curriculum
+- Well ***air-conditioned*** classroom in the church
+- Laid back _yet_ informative curriculum
 - No exams
-- Plenty of resources
+- ***Plenty*** of resources
 
 ```markdown
 Syntax highlighted code block
